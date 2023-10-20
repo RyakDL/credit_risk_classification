@@ -26,4 +26,4 @@ weighted avg       0.99      0.99      0.99     19384
    macro avg       0.95      0.95      0.95    112542
 weighted avg       0.95      0.95      0.95    112542
 
-COMMENT: I enjoyed this supervised machine learning activity very much and believe I will use it as one of the methods to analyze and test data in my Project 4. My sources was class materials.
+C. Conclusion: I would recommend this model to be advanced for further testing in a pilot program to insure that consistent results are produced. Once verified, the model could go live. 
